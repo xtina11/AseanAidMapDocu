@@ -1,0 +1,11 @@
+- Provide historical/milestones, audit trails, reports related to budget
+- Resources allocation per activities in a project
+- Cite basis for the criteria for performance report
+- For transparency purposes, generate detailed and summary reports
+- Breakdown of resources
+- Changing timeline as project duration
+- adding representative of the organization
+- Improved Program Evaluation
+- Adding of contact in projects (Gina nin gru d ni sir is redundant nga may amu ni sa org profile may ara mn sa projects)
+
+(Ang iban nila nga suggestions ara naman ni sa system pero wala lang nila nakita)
