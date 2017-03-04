@@ -1,0 +1,35 @@
+{
+    "_id" : ObjectId("585a1dcb4afa7a2a0caa847e"),
+    "description" : "CARE is one of the world's largest independent, international relief and development organizations. ",
+    "country" : "Laos",
+    "orgname" : "CARE",
+    "password" : "$2a$10$P2gUBMJke5ZyxVzhLPZxEeZZyCmecPuD.Y3rvO30iziYS.kqhQiR.",
+    "username" : "org10",
+    "connections" : [ 
+        "584a865b0967ce1adc4588b9"
+    ],
+    "resources" : [ 
+        {
+            "quantity" : 300,
+            "description" : "Cleaning and Maintenance Supplies",
+            "type" : "Office Supplies"
+        }
+    ],
+    "sectors" : [
+	{
+            "type" : "Poverty Eradication"
+        } ,
+	{
+	    "type" : "Health and Nutrition"
+	}
+    ],
+    "awards" : [],
+    "contacts" : {
+        "telNo" : "09463593953",
+        "website" : "http://www.bacolodjs.com",
+        "email" : "isaiahtaguibao@yahoo.com"
+    },
+    "address" : "",
+    "picture" : "",
+    "__v" : 59
+}

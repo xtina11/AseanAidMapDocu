@@ -1,0 +1,42 @@
+{
+    "_id" : ObjectId("5851c3da7eca1421dcf92c9a"),
+    "description" : "Reconstruction of destroyed day care centers are part of the rehabilitation plan of PDRRMC on Typhoon Yolanda",
+    "endDate" : ISODate("2017-04-05T16:00:00.000Z"),
+    "startDate" : ISODate("2017-01-03T16:00:00.000Z"),
+    "creator" : "584a865b0967ce1adc4588b9",
+    "title" : "Construction of Day Care Center",
+    "collaboration" : [ 
+        "585a1dcb4afa7a2a0caa847e"
+    ],
+    "status" : "Ongoing",
+    "resources" : [ 
+        {
+            "qty" : 200,
+            "type" : "Office Furniture",
+            "inhand" : 50
+        }
+    ],
+    "budget" : {
+        "amount" : "1500000",
+        "shown" : true
+    },
+    "address" : {
+        "country" : "Philippines",
+        "street" : "San Fernando",
+        "city" : "Pampanga"
+    },
+    "__v" : 7,
+    "contacts" : {
+        "telNo" : "436-1234",
+        "website" : "http://www.dcc.com",
+        "email" : "dcc@yahoo.com"
+    },
+    "media" : [],
+    "sector" : [ 
+        {
+            "type" : "Education",
+            "subsector" : "Early childhood education"
+        }
+    ],
+    "picture" : ""
+}

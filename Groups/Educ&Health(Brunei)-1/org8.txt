@@ -1,0 +1,36 @@
+{
+    "_id" : ObjectId("584a865b0967ce1adc4588b9"),
+    "description" : "The organization seeks to provide treatment for dependencies, improve the situation of abusers and their families by influencing social policy and offer a wide range of services on a voluntary and confidential basis.",
+    "country" : "Brunei Darussalam",
+    "orgname" : "B-Clinic Foundation",
+    "password" : "$2a$10$zO5uM6xDc0s16l80WEagFeUzG/gxJ3s8zBwZ54snuzRY79aG1DSxm",
+    "username" : "org8",
+    "connections" : [ 
+        "585a1dcb4afa7a2a0caa847e"
+    ],
+    "resources" : [ 
+        {
+            "type" : "Human Resource",
+           "quantity" : "40"
+        }
+    ],
+    "sectors" : [ 
+        {
+            "type" : "Health and Nutrition"
+        },
+	{
+            "type" : "Education"
+        }
+    ],
+    "awards" : [ 
+        "hahahaha"
+    ],
+    "contacts" : {
+        "telNo" : "",
+        "website" : "http://bclinicfoundation.com",
+        "email" : "bclinicfoundation@yahoo.com"
+    },
+    "address" : "Galo Street",
+    "picture" : "",
+    "__v" : 49
+}

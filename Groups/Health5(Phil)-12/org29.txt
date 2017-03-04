@@ -1,0 +1,42 @@
+{
+    "_id" : ObjectId("585a1dcb4afa7a2a0caa847e"),
+    "description" : "Agusan for People?s Health Development Foundation, Inc. (APHDFI), was registered with the SEC on September 29, 2004. It was actually an offshoot of the Agusan del Sur-Malaria Control/Prevention Project, funded by AusAid. Because of its success, the Australian Government extended its assistance in the form of Community Trust Fund (CTF). Due to the limitation of CTF in dealing with malaria only, APHDFI embraced a wholistic approach in its health service programs as it professes to deal with promotive, preventive and curative aspects in addressing not only malaria but other diseases as well at the provincial and municipal levels.",
+    "country" : "Philippines",
+    "orgname" : "Agusan for People's Health Development Foundation, Inc. ",
+    "password" : "$2a$10$P2gUBMJke5ZyxVzhLPZxEeZZyCmecPuD.Y3rvO30iziYS.kqhQiR.",
+    "username" : "org29,
+    "connections" : [ 
+        "584a865b0967ce1adc4588b9"
+    ],
+    "resources" : [ 
+        {
+            "quantity" : 200,
+            "description" : "Horticultural (spade, shovel, fork, shear, hand trowel, hoe)",
+            "type" : "Tools and Equipments"
+        },
+        {
+            "quantity" : 350,
+            "description" : "Clothes",
+            "type" : "Clothes and Personal Necessities"
+        },
+        {
+            "quantity" : 230,
+            "description" : "First Aid Items",
+            "type" : "Clothes and Personal Necessities"
+        }
+    ],
+    "sectors" : [ 
+	    {
+            "type" : "Health and Nutrition"
+        }
+    ],
+    "awards" : [],
+    "contacts" : {
+        "telNo" : "(085) 343-7185 / 0928-550-2317",
+        "website" : "",
+        "email" : "xer72@yahoo.com; aphdfi@yahoo.com" 
+    },
+    "address" : "PHRC Building, Patin-ay, Prosperidad",
+    "picture" : "",
+    "__v" : 59
+}

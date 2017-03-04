@@ -1,0 +1,43 @@
+{
+    "_id" : ObjectId("5851c3da7eca1421dcf92c9a"),
+    "description" : "CIP in Cabadiangan",
+    "endDate" : ISODate("2017-03-09T16:00:00.000Z"),
+    "startDate" : ISODate("2017-01-09T16:00:00.000Z"),
+    "creator" : "584a865b0967ce1adc4588b9",
+    "title" : "Tugas CIP",
+    "collaboration" : [ 
+        "585a1dcb4afa7a2a0caa847e"
+    ],
+    "status" : "Ongoing",
+    "resources" : [  
+        {
+            "qty" : 30,
+            "description" : "tape measure",
+            "type" : "Tools and Equipments",
+            "inhand" : 20
+        }
+    ],
+    "budget" : {
+        "amount" : "3093683.44",
+        "shown" : true
+    },
+    "address" : {
+        "country" : "Philippines",
+        "street" : "Cabadiangan Street",
+        "city" : "Sipalay"
+    },
+    "__v" : 7,
+    "contacts" : {
+        "telNo" : "446-5191",
+        "website" : "http://www.tugascip.com",
+        "email" : "tugascip@yahoo.com"
+    },
+    "media" : [],
+    "sector" : [ 
+        {
+            "type" : "Rural Development",
+            "subsector" : "Agricultural primary production"
+        }
+    ],
+    "picture" : ""
+}

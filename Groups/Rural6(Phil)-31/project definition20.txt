@@ -1,0 +1,43 @@
+{
+    "_id" : ObjectId("5851c3da7eca1421dcf92c9a"),
+    "description" : "CIP in Gawahon",
+    "endDate" : ISODate("2017-02-10T16:00:00.000Z"),
+    "startDate" : ISODate("2017-01-01T16:00:00.000Z"),
+    "creator" : "584a865b0967ce1adc4588b9",
+    "title" : "Gawahon Dos CIP",
+    "collaboration" : [ 
+        "585a1dcb4afa7a2a0caa847e"
+    ],
+    "status" : "Ongoing",
+    "resources" : [ 
+        {
+            "qty" : 120,
+            "description" : "Secateurs",
+            "type" : "Tools and Equipments",
+            "inhand" : 60
+        }
+    ],
+    "budget" : {
+        "amount" : "6926864.44",
+        "shown" : true
+    },
+    "address" : {
+        "country" : "Philippines",
+        "street" : "Caduha-an Street",
+        "city" : "Cadiz"
+    },
+    "__v" : 7,
+    "contacts" : {
+        "telNo" : "434-3265",
+        "website" : "http://www.bacolodjs.com",
+        "email" : "hq@yahoo.com"
+    },
+    "media" : [],
+    "sector" : [ 
+        {
+            "type" : "Rural Development",
+            "subsector" : "Agricultural primary production"
+        }
+    ],
+    "picture" : ""
+}

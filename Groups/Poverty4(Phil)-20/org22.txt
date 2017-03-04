@@ -1,0 +1,37 @@
+{
+    "_id" : ObjectId("585a1dcb4afa7a2a0caa847e"),
+    "description" : "A foundation helping lumad and poor patients since 1999.",
+    "country" : "Philippines",
+    "orgname" : "A Chance for the Poor Foundation, Inc. ",
+    "password" : "$2a$10$P2gUBMJke5ZyxVzhLPZxEeZZyCmecPuD.Y3rvO30iziYS.kqhQiR.",
+    "username" : "org22",
+    "connections" : [ 
+        "584a865b0967ce1adc4588b9"
+    ],
+    "resources" : [ 
+        {
+            "quantity" : 150,
+            "description" : "First Aid Items",
+            "type" : "Clothes and Personal Necessities"
+        },
+        {
+            "quantity" : 150,
+            "description" : "Bath Essentials",
+            "type" : "Clothes and Personal Necessities"
+        }
+    ],
+    "sectors" : [ 
+	   {
+            "type" : "Poverty Eradication"
+        }
+    ],
+    "awards" : [],
+    "contacts" : {
+        "telNo" : "342-8286",
+        "website" : "http://www.chanceforthepoor.5u.com/",
+        "email" : "msmarybutuan@yahoo.com"
+    },
+    "address" : "Shelter Home Bldg., 4th St., Guingona Subd.",
+    "picture" : "",
+    "__v" : 59
+}

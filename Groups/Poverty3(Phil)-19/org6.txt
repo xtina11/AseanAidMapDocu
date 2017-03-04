@@ -1,0 +1,33 @@
+{
+    "_id" : ObjectId("584a865b0967ce1adc4588b9"),
+    "description" : "A helping Organization",
+    "country" : "Philippines",
+    "orgname" : "Holy Infant Nursery Foundation Inc.",
+    "password" : "$2a$10$zO5uM6xDc0s16l80WEagFeUzG/gxJ3s8zBwZ54snuzRY79aG1DSxm",
+    "username" : "org7",
+    "connections" : [ 
+        "585a1dcb4afa7a2a0caa847e"
+    ],
+    "resources" : [ 
+        {
+            "type" : "Human Resource",
+            "quantity" : "15"
+        }
+    ],
+    "sectors" : [ 
+        {
+            "type" : "Poverty Eradication"
+        }
+    ],
+    "awards" : [ 
+        "hahahaha"
+    ],
+    "contacts" : {
+        "telNo" : "+63(34)444 1805",
+        "website" : "",
+        "email" : "hazel@yahoo.com"
+    },
+    "address" : "SAN SEBASTIAN SUBDIVISION - SAN FRANCISCO STREET SUM-AG",
+    "picture" : "",
+    "__v" : 49
+}

@@ -1,0 +1,37 @@
+{
+    "_id" : ObjectId("585a1dcb4afa7a2a0caa847e"),
+    "description" : "Action Relief is humanitarian non-profit organization fighting poverty. We place special focus on working alongside poor community and most vulnerable groups, Action Relief works in community-based efforts to improve basic education, basic health, increase access to clean water and sanitation, expand economic opportunity and protect natural resources. Action Relief also delivers emergency relief to survivors of natural disasters, conflict and war, and helps people rebuild their lives to recover and improve. We collaborate with a wide range of organization to design and implement humanitarian relief.",
+    "country" : "Indonesia",
+    "orgname" : "Action Relief",
+    "password" : "$2a$10$P2gUBMJke5ZyxVzhLPZxEeZZyCmecPuD.Y3rvO30iziYS.kqhQiR.",
+    "username" : "org25",
+    "connections" : [ 
+        "584a865b0967ce1adc4588b9"
+    ],
+    "resources" : [ 
+        {
+            "quantity" : 400,
+            "description" : "Horticultural (spade, shovel, fork, shear, hand trowel, hoe)",
+            "type" : "Tools and Equipments"
+        },
+        {
+            "quantity" : 400,
+            "description" : "Clothes",
+            "type" : "Clothes and Personal Necessities"
+        }
+    ],
+    "sectors" : [ 
+	    {
+            "type" : "Poverty Eradication"
+        }
+    ],
+    "awards" : [],
+    "contacts" : {
+        "telNo" : "+62 811685685",
+        "website" : "http://www.actionrelief.org/",
+        "email" : ""
+    },
+    "address" : "Jl. Prof. A. Madjid Ibrahim , Sigli",
+    "picture" : "",
+    "__v" : 59
+}

@@ -1,0 +1,37 @@
+{
+    "_id" : ObjectId("585a1dcb4afa7a2a0caa847e"),
+    "description" : "For sustainable rural technologies and healthcare.",
+    "country" : "Philippines",
+    "orgname" : "Agri-Tayo",
+    "password" : "$2a$10$P2gUBMJke5ZyxVzhLPZxEeZZyCmecPuD.Y3rvO30iziYS.kqhQiR.",
+    "username" : "org21",
+    "connections" : [ 
+        "584a865b0967ce1adc4588b9"
+    ],
+    "resources" : [ 
+        {
+            "quantity" : 150,
+            "description" : "First Aid Items",
+            "type" : "Clothes and Personal Necessities"
+        },
+        {
+            "quantity" : 100,
+            "description" : "Any Carpentry Tools",
+            "type" : "Tools and Equipments"
+        }
+    ],
+    "sectors" : [ 
+	   {
+            "type" : "Rural Development"
+        }
+    ],
+    "awards" : [],
+    "contacts" : {
+        "telNo" : "09463593953",
+        "website" : "http://www.bacolodjs.com",
+        "email" : "isaiahtaguibao@yahoo.com"
+    },
+    "address" : "",
+    "picture" : "",
+    "__v" : 59
+}

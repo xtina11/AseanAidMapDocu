@@ -1,0 +1,37 @@
+{
+    "_id" : ObjectId("585a1dcb4afa7a2a0caa847e"),
+    "description" : "Ensures help in agricultural consultancy, education, research, practical farming, language education, administration and management. It has a permanent office in Hanoi, helping Vietnam  in resolving problems of needy agricultural regions.",
+    "country" : "Vietnam",
+    "orgname" : "Agricultural Development Asia",
+    "password" : "$2a$10$P2gUBMJke5ZyxVzhLPZxEeZZyCmecPuD.Y3rvO30iziYS.kqhQiR.",
+    "username" : "org18",
+    "connections" : [ 
+        "584a865b0967ce1adc4588b9"
+    ],
+    "resources" : [ 
+        {
+            "quantity" : 100,
+            "description" : "First Aid Items",
+            "type" : "Clothes and Personal Necessities"
+        },
+        {
+            "quantity" : 100,
+            "description" : "Any Carpentry Tools",
+            "type" : "Tools and Equipments"
+        }
+    ],
+    "sectors" : [ 
+	   {
+            "type" : "Rural Development"
+        }
+    ],
+    "awards" : [],
+    "contacts" : {
+        "telNo" : "09463593953",
+        "website" : "http://www.bacolodjs.com",
+        "email" : "isaiahtaguibao@yahoo.com"
+    },
+    "address" : "",
+    "picture" : "",
+    "__v" : 59
+}

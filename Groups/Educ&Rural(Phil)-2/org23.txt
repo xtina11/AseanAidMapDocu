@@ -1,0 +1,35 @@
+{
+    "_id" : ObjectId("585a1dcb4afa7a2a0caa847e"),
+    "description" : "AIM Scientific Research Foundation serves as the fundraising and development arm of the Asian Institute of Management (AIM), a well-known business and management school in Asia established by SGV founder Washington SyCip. Founded in 1968, the Foundation generates support for the programs of the Institute, serve as the bridge to the school's community stakeholders and primary research vehicle of AIM. The Foundation hopes to tap its US-based alumni in helping grow its AIM Alumni Leadership Fund for its scholarship program for deserving students and improvement of facilities of AIM. ",
+    "country" : "Philippines",
+    "orgname" : "A.I.M. Scientific Research Foundation",
+    "password" : "$2a$10$P2gUBMJke5ZyxVzhLPZxEeZZyCmecPuD.Y3rvO30iziYS.kqhQiR.",
+    "username" : "org23",
+    "connections" : [ 
+        "584a865b0967ce1adc4588b9"
+    ],
+    "resources" : [ 
+        {
+            "quantity" : 400,
+            "description" : "Calculators and Adding Machines",
+            "type" : "Office and Equipment Electronics"
+        }
+    ],
+    "sectors" : [ 
+	   {
+            "type" : "Education"
+        },
+        {
+            "type" : "Rural Development"
+        }
+    ],
+    "awards" : [],
+    "contacts" : {
+        "telNo" : "892-4011",
+        "website" : "http://www.aim.edu",
+        "email" : "mbonoan@aim.edu / dpaterno@aim.edu"
+    },
+    "address" : "Eugenio Lopez Foundation, 123 Paseo de Roxas, Legaspi Village",
+    "picture" : "",
+    "__v" : 59
+}

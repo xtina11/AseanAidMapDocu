@@ -1,0 +1,39 @@
+{
+    "_id" : ObjectId("585a1dcb4afa7a2a0caa847e"),
+    "description" : "The Asian Coalition for Housing Rights is a regional network of grassroots community organizations, NGO's and professionals actively involved with urban poor development processes in Asian cities.",
+    "country" : "Thailand",
+    "orgname" : "Asian Coalition for Housing Rights (ACHR)",
+    "password" : "$2a$10$P2gUBMJke5ZyxVzhLPZxEeZZyCmecPuD.Y3rvO30iziYS.kqhQiR.",
+    "username" : "org32,
+    "connections" : [ 
+        "584a865b0967ce1adc4588b9"
+    ],
+    "resources" : [
+        {
+            "quantity" : 100,
+            "description" : "Horticultural (spade, shovel, fork, shear, hand trowel, hoe)",
+            "type" : "Tools and Equipments"
+        },
+        {
+            "quantity" : 100,
+            "type" : "Human Resource"
+        }
+    ],
+    "sectors" : [ 
+	    {
+            "type" : "Rural Development"
+        },
+        {
+            "type" : "Poverty Eradication"
+        }
+    ],
+    "awards" : [],
+    "contacts" : {
+        "telNo" : "662 538 0919",
+        "website" : "http://www.achr.net/",
+        "email" : "contact@achr.net" 
+    },
+    "address" : "73 Soi Sonthiwattana 4, Ladprao 110, Ladprao Rd Bangkok",
+    "picture" : "",
+    "__v" : 59
+}

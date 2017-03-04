@@ -1,0 +1,37 @@
+{
+    "_id" : ObjectId("585a1dcb4afa7a2a0caa847e"),
+    "description" : "The organization provides drug treatment and rehabilitation services under qualified and experienced supervision. ROH is committed to give a new life and social status to the people who are trapped in drug addictions. ROH provides peer education, training and outreach, specialized detoxification and rehabilitation services to drug users.",
+    "country" : "Vietnam",
+    "orgname" : "Ray of Hope (ROH)",
+    "password" : "$2a$10$P2gUBMJke5ZyxVzhLPZxEeZZyCmecPuD.Y3rvO30iziYS.kqhQiR.",
+    "username" : "org17",
+    "connections" : [ 
+        "584a865b0967ce1adc4588b9"
+    ],
+    "resources" : [ 
+        {
+            "quantity" : 100,
+            "description" : "First Aid Items",
+            "type" : "Clothes and Personal Necessities"
+        },
+        {
+            "quantity" : 100,
+            "description" : "Betadine, bottle, swab",
+            "type" : "Medical Supplies/Equipment"
+        }
+    ],
+    "sectors" : [ 
+	   {
+            "type" : "Health and Nutrition"
+        }
+    ],
+    "awards" : [],
+    "contacts" : {
+        "telNo" : "09463593953",
+        "website" : "http://www.bacolodjs.com",
+        "email" : "isaiahtaguibao@yahoo.com"
+    },
+    "address" : "",
+    "picture" : "",
+    "__v" : 59
+}

@@ -1,0 +1,39 @@
+{
+    "_id" : ObjectId("585a1dcb4afa7a2a0caa847e"),
+    "description" : "Workshops about treatment and side effect of the AIDS drugs with PLWH and physicians working in the field.",
+    "country" : "Malaysia",
+    "orgname" : "National Youth Action (NAYA)",
+    "password" : "$2a$10$P2gUBMJke5ZyxVzhLPZxEeZZyCmecPuD.Y3rvO30iziYS.kqhQiR.",
+    "username" : "org12",
+    "connections" : [ 
+        "584a865b0967ce1adc4588b9"
+    ],
+    "resources" : [ 
+        {
+            "quantity" : 10,
+            "description" : "Any Carpentry tools",
+            "type" : "Tools and Equipment"
+        }, 
+        {
+            "quantity" : 40,
+            "type" : "Human Resource"
+        }
+    ],
+    "sectors" : [ 
+        {
+            "type" : "Health and Nutrition"
+        },
+	{
+            "type" : "Education"
+        }
+    ],
+    "awards" : [],
+    "contacts" : {
+        "telNo" : "09463593953",
+        "website" : "http://www.bacolodjs.com",
+        "email" : "isaiahtaguibao@yahoo.com"
+    },
+    "address" : "",
+    "picture" : "",
+    "__v" : 59
+}

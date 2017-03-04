@@ -1,0 +1,31 @@
+{
+    "_id" : ObjectId("585a1dcb4afa7a2a0caa847e"),
+    "description" : "Positive Help is providing of the healthy ways by rendering medical, information, research and legal services.",
+    "country" : "Singapore",
+    "orgname" : "Positive Help",
+    "password" : "$2a$10$P2gUBMJke5ZyxVzhLPZxEeZZyCmecPuD.Y3rvO30iziYS.kqhQiR.",
+    "username" : "org15",
+    "connections" : [ 
+        "584a865b0967ce1adc4588b9"
+    ],
+    "resources" : [ 
+        {
+            "quantity" : 50,
+            "type" : "Human Resource"
+        }
+    ],
+    "sectors" : [ 
+	   {
+            "type" : "Health and Nutrition"
+        }
+    ],
+    "awards" : [],
+    "contacts" : {
+        "telNo" : "09463593953",
+        "website" : "http://www.bacolodjs.com",
+        "email" : "isaiahtaguibao@yahoo.com"
+    },
+    "address" : "",
+    "picture" : "",
+    "__v" : 59
+}

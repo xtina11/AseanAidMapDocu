@@ -1,0 +1,37 @@
+{
+    "_id" : ObjectId("585a1dcb4afa7a2a0caa847e"),
+    "description" : "Founded in 1988 by Mr. Nguyen Dinh Huu, affectionately known as “Bac Huu,” and a group of professionals in response to the critical needs to assist thousands of unaccompanied Vietnamese refugee minors who were displaced & detained in various refugee camps throughout Southeast Asia: Thailand, Malaysia, Indonesia, The Philippines, Singapore and Hong Kong in the late 1980’s.",
+    "country" : "Vietnam",
+    "orgname" : "Aid to Children Without Parents, Inc.",
+    "password" : "$2a$10$P2gUBMJke5ZyxVzhLPZxEeZZyCmecPuD.Y3rvO30iziYS.kqhQiR.",
+    "username" : "org26,
+    "connections" : [ 
+        "584a865b0967ce1adc4588b9"
+    ],
+    "resources" : [ 
+        {
+            "quantity" : 400,
+            "description" : "Horticultural (spade, shovel, fork, shear, hand trowel, hoe)",
+            "type" : "Tools and Equipments"
+        },
+        {
+            "quantity" : 400,
+            "description" : "Clothes",
+            "type" : "Clothes and Personal Necessities"
+        }
+    ],
+    "sectors" : [ 
+	    {
+            "type" : "Poverty Eradication"
+        }
+    ],
+    "awards" : [],
+    "contacts" : {
+        "telNo" : "+1.4082105946",
+        "website" : "http://www.acwp.org/",
+        "email" : "info@acwp.org"
+    },
+    "address" : "2268 Quimby Road, Unit #E San Jose CA 95122 US",
+    "picture" : "",
+    "__v" : 59
+}

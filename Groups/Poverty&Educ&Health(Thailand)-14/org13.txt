@@ -1,0 +1,43 @@
+{
+    "_id" : ObjectId("585a1dcb4afa7a2a0caa847e"),
+    "description" : "The New Life Center Foundation (NLCF) works exclusively with ethnic minority (tribal) women throughout the Mekong sub- region (Thailand and its neighboring countries) who are at risk for, or victims of, labor exploitation. Labor exploitation includes, but is not limited to, forced work in factories, local markets, domestic situations, and the sex trade.
+",
+    "country" : "Thailand",
+    "orgname" : "New Life Centre Foundation",
+    "password" : "$2a$10$P2gUBMJke5ZyxVzhLPZxEeZZyCmecPuD.Y3rvO30iziYS.kqhQiR.",
+    "username" : "org13",
+    "connections" : [ 
+        "584a865b0967ce1adc4588b9"
+    ],
+    "resources" : [ 
+        {
+            "quantity" : 10,
+            "description" : "Any Carpentry tools",
+            "type" : "Tools and Equipment"
+        }, 
+        {
+            "quantity" : 50,
+            "type" : "Human Resource"
+        }
+    ],
+    "sectors" : [ 
+        {
+            "type" : "Poverty Eradication"
+        },
+	   {
+            "type" : "Health and Nutrition"
+        },
+	   {
+            "type" : "Education"
+        }
+    ],
+    "awards" : [],
+    "contacts" : {
+        "telNo" : "09463593953",
+        "website" : "http://www.bacolodjs.com",
+        "email" : "isaiahtaguibao@yahoo.com"
+    },
+    "address" : "",
+    "picture" : "",
+    "__v" : 59
+}

@@ -1,0 +1,48 @@
+{
+    "_id" : ObjectId("5851c3da7eca1421dcf92c9a"),
+    "description" : "This program is the provincial masterplan for Nutrition which responds to the country's problem on hunger, poverty and malnutrition.",
+    "endDate" : ISODate("2017-01-30T16:00:00.000Z"),
+    "startDate" : ISODate("2016-12-30T16:00:00.000Z"),
+    "creator" : "584a865b0967ce1adc4588b9",
+    "title" : "Food Production for Nutritionally Vulnerable Families",
+    "collaboration" : [ 
+        "585a1dcb4afa7a2a0caa847e"
+    ],
+    "status" : "Ongoing",
+    "resources" : [ 
+        {
+            "qty" : 15,
+            "type" : "Human Resource",
+            "inhand" : 10
+        }, 
+        {
+            "qty" : 100,
+            "description" : "Bandages",
+            "type" : "Medical Supplies",
+            "inhand" : 20
+        }
+    ],
+    "budget" : {
+        "amount" : "5000000",
+        "shown" : true
+    },
+    "address" : {
+        "country" : "Brunei",
+        "street" : "Phi Street",
+        "city" : "Tutong"
+    },
+    "__v" : 7,
+    "contacts" : {
+        "telNo" : "4461234",
+        "website" : "http://www.NT.com",
+        "email" : "nt@yahoo.com"
+    },
+    "media" : [],
+    "sector" : [ 
+        {
+            "type" : "Health and Nutrition",
+            "subsector" : "Health Care Plans"
+        }
+    ],
+    "picture" : ""
+}

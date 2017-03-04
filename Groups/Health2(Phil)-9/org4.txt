@@ -1,0 +1,36 @@
+{
+    "_id" : ObjectId("585a1dcb4afa7a2a0caa847e"),
+    "description" : "Born officially in 1947, but with roots that traces back to the revolutionary days, the Philippine Red Cross has truly become the premier humanitarian organization in the country, committed to provide quality life-saving services that protect the life and dignity especially of indigent Filipinos in vulnerable situations.",
+    "country" : "Philippines",
+    "orgname" : "St. Vincent’s Home for the Aged Philippine Red Cross – Bacolod Chapter",
+    "password" : "$2a$10$P2gUBMJke5ZyxVzhLPZxEeZZyCmecPuD.Y3rvO30iziYS.kqhQiR.",
+    "username" : "org4",
+    "connections" : [ 
+        "584a865b0967ce1adc4588b9"
+    ],
+    "resources" : [ 
+        {
+            "quantity" : 20,
+            "description" : "Bath Essentials",
+            "type" : "Clothes and Personal Necessities"
+        }, 
+        {
+            "quantity" : 5,
+            "type" : "Human Resource"
+        }
+    ],
+    "sectors" : [ 
+        {
+            "type" : "Health and Nutrition"
+        }
+    ],
+    "awards" : [],
+    "contacts" : {
+        "telNo" : "143 or 527-0000",
+        "website" : "www.redcross.org.ph",
+        "email" : "redcross@gmail.com"
+    },
+    "address" : "PRC 10th St",
+    "picture" : "",
+    "__v" : 59
+}

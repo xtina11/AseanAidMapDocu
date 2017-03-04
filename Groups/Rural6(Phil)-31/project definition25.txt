@@ -1,0 +1,43 @@
+{
+    "_id" : ObjectId("5851c3da7eca1421dcf92c9a"),
+    "description" : "CIP in Bunton",
+    "endDate" : ISODate("2017-04-10T16:00:00.000Z"),
+    "startDate" : ISODate("2017-01-12T16:00:00.000Z"),
+    "creator" : "584a865b0967ce1adc4588b9",
+    "title" : "Bunton CIP",
+    "collaboration" : [ 
+        "585a1dcb4afa7a2a0caa847e"
+    ],
+    "status" : "Ongoing",
+    "resources" : [ 
+        {
+            "qty" : 40,
+            "description" : "Spade",
+            "type" : "Tools and Equipments",
+            "inhand" : 35
+        }
+    ],
+    "budget" : {
+        "amount" : "9545404.44",
+        "shown" : true
+    },
+    "address" : {
+        "country" : "Philippines",
+        "street" : "Lacson Street",
+        "city" : "Quezon"
+    },
+    "__v" : 7,
+    "contacts" : {
+        "telNo" : "436-8090",
+        "website" : "http://www.buntoncip.com",
+        "email" : "buntoncip@yahoo.com"
+    },
+    "media" : [],
+    "sector" : [ 
+        {
+            "type" : "Rural Development",
+            "subsector" : "Agricultural primary production"
+        }
+    ],
+    "picture" : ""
+}

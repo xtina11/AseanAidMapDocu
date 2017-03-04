@@ -1,0 +1,33 @@
+{
+    "_id" : ObjectId("584a865b0967ce1adc4588b9"),
+    "description" : "Alive & Kicking facilitates greater access to sport by supplying vital sporting equipment at prices that the majority of Africans can afford. In so doing, this self-sustainable project acts as the catalyst for both grassroots economic development and health education, harnessing the power of sport to target vulnerable adolescents.",
+    "country" : "Indonesia",
+    "orgname" : "Alive and Kicking",
+    "password" : "$2a$10$zO5uM6xDc0s16l80WEagFeUzG/gxJ3s8zBwZ54snuzRY79aG1DSxm",
+    "username" : "org9",
+    "connections" : [ 
+        "585a1dcb4afa7a2a0caa847e"
+    ],
+    "resources" : [ 
+        {
+            "type" : "Human Resource",
+            "quantity" : "20"
+        }
+    ],
+    "sectors" : [ 
+        {
+            "type" : "Health and Nutrition"
+        }
+    ],
+    "awards" : [ 
+        "hahahaha"
+    ],
+    "contacts" : {
+        "telNo" : "",
+        "website" : "http://aliveandkicking.com",
+        "email" : "aliveandkicking@yahoo.com"
+    },
+    "address" : "Galo Street",
+    "picture" : "",
+    "__v" : 49
+}

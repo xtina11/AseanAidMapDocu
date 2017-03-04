@@ -1,0 +1,43 @@
+{
+    "_id" : ObjectId("5851c3da7eca1421dcf92c9a"),
+    "description" : "Parcellary Mapping & Topographic Survey/Map Preparation",
+    "endDate" : ISODate("2017-02-11T16:00:00.000Z"),
+    "startDate" : ISODate("2017-01-11T16:00:00.000Z"),
+    "creator" : "584a865b0967ce1adc4588b9",
+    "title" : "Engineering Survey & Mapping",
+    "collaboration" : [ 
+        "585a1dcb4afa7a2a0caa847e"
+    ],
+    "status" : "Ongoing",
+    "resources" : [ 
+        {
+            "qty" : 50,
+            "description" : "wood chisel",
+            "type" : "Tools and Equipments",
+            "inhand" : 35
+        }
+    ],
+    "budget" : {
+        "amount" : "4077500",
+        "shown" : true
+    },
+    "address" : {
+        "country" : "Cambodia",
+        "street" : "Qaz Street",
+        "city" : "Takeo"
+    },
+    "__v" : 7,
+    "contacts" : {
+        "telNo" : "478-4444",
+        "website" : "http://www.Esm.com",
+        "email" : "esm@yahoo.com"
+    },
+    "media" : [],
+    "sector" : [ 
+        {
+            "type" : "Poverty Eradication",
+            "subsector" : "Employment and Productivity"
+        }
+    ],
+    "picture" : ""
+}

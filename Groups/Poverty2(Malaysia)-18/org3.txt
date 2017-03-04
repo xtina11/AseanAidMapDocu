@@ -1,0 +1,33 @@
+{
+    "_id" : ObjectId("584a865b0967ce1adc4588b9"),
+    "description" : "It is a licensed Social Welfare Institution to provide temporary shelter for neglected and abandoned elderlies.",
+    "country" : "Malaysia",
+    "orgname" : "St. Laurent’s Home for the Aged",
+    "password" : "$2a$10$zO5uM6xDc0s16l80WEagFeUzG/gxJ3s8zBwZ54snuzRY79aG1DSxm",
+    "username" : "org3",
+    "connections" : [ 
+        "585a1dcb4afa7a2a0caa847e"
+    ],
+    "resources" : [ 
+        {
+            "type" : "Human Resource",
+            "quantity" : "15"
+        }
+    ],
+    "sectors" : [ 
+        {
+            "type" : "Poverty Eradication"
+        }
+    ],
+    "awards" : [ 
+        "hahahaha"
+    ],
+    "contacts" : {
+        "telNo" : "",
+        "website" : "",
+        "email" : "hazel@yahoo.com"
+    },
+    "address" : "Galo Street",
+    "picture" : "",
+    "__v" : 49
+}

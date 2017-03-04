@@ -1,0 +1,43 @@
+{
+    "_id" : ObjectId("5851c3da7eca1421dcf92c9a"),
+    "description" : "CIP in Asia",
+    "endDate" : ISODate("2017-02-12T16:00:00.000Z"),
+    "startDate" : ISODate("2017-01-10T16:00:00.000Z"),
+    "creator" : "584a865b0967ce1adc4588b9",
+    "title" : "Const of Asia IP",
+    "collaboration" : [ 
+        "585a1dcb4afa7a2a0caa847e"
+    ],
+    "status" : "Ongoing",
+    "resources" : [ 
+        {
+            "qty" : 75,
+            "description" : "fish tape",
+            "type" : "Tools and Equipments",
+            "inhand" : 50
+        }
+    ],
+    "budget" : {
+        "amount" : "1000000",
+        "shown" : true
+    },
+    "address" : {
+        "country" : "Philippines",
+        "street" : "Asia Street",
+        "city" : "Hinoba-an"
+    },
+    "__v" : 7,
+    "contacts" : {
+        "telNo" : "444-1234",
+        "website" : "http://www.asiacip.com",
+        "email" : "asiacip@yahoo.com"
+    },
+    "media" : [],
+    "sector" : [ 
+        {
+            "type" : "Rural Development",
+            "subsector" : "Agricultural primary production"
+        }
+    ],
+    "picture" : ""
+}

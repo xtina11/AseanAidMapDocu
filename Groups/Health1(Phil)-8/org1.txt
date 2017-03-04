@@ -1,0 +1,36 @@
+{
+    "_id" : ObjectId("585a1dcb4afa7a2a0caa847e"),
+    "description" : "We are a non-stock, non-government organization that provides treatment and rehabilitation to drug dependents of the Cities and Municipalities of the Province of Negros Occidental. It has a total lot area of 5,620 sq. m. The center has separate dormitories for men & women, with complete facilities for 60 patients. It also has its own drug testing laboratory. The Center is managed by the Negros Occidental Drug Rehabilitation Foundation (N.O.D.R.F.), duly registered with the Securities and Exchange Commission as non-profit, non-government organization (NGO).",
+    "country" : "Philippines",
+    "orgname" : "Negros Occidental Rehabilitation Foundation Inc.",
+    "password" : "$2a$10$P2gUBMJke5ZyxVzhLPZxEeZZyCmecPuD.Y3rvO30iziYS.kqhQiR.",
+    "username" : "org1",
+    "connections" : [ 
+        "584a865b0967ce1adc4588b9"
+    ],
+    "resources" : [ 
+        {
+            "quantity" : Ace Bandages,
+            "description" : "Any Carpentry tools",
+            "type" : "Medical Supplies/Equipments"
+        }, 
+        {
+            "quantity" : 5,
+            "type" : "Human Resource"
+        }
+    ],
+    "sectors" : [ 
+        {
+            "type" : "Health and Nutrition"
+        }
+    ],
+    "awards" : [],
+    "contacts" : {
+        "telNo" : "+63 (34) 399-3388  ",
+        "website" : "http://www.bacolodjs.com",
+        "email" : "info@nodrfi.com"
+    },
+    "address" : "Camp General Aniceto Lacson Compound",
+    "picture" : "",
+    "__v" : 59
+}

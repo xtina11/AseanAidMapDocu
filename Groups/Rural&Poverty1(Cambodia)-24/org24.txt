@@ -1,0 +1,35 @@
+{
+    "_id" : ObjectId("585a1dcb4afa7a2a0caa847e"),
+    "description" : "ADD International fights for independence, equality and opportunity for disabled people living in poverty in Africa and Asia. We do this by supporting disability activists to build strong movements for change.",
+    "country" : "Cambodia",
+    "orgname" : "Action on Disability and Development(ADD) ",
+    "password" : "$2a$10$P2gUBMJke5ZyxVzhLPZxEeZZyCmecPuD.Y3rvO30iziYS.kqhQiR.",
+    "username" : "org24",
+    "connections" : [ 
+        "584a865b0967ce1adc4588b9"
+    ],
+    "resources" : [ 
+        {
+            "quantity" : 400,
+            "description" : "Horticultural (spade, shovel, fork, shear, hand trowel, hoe)",
+            "type" : "Tools and Equipments"
+        }
+    ],
+    "sectors" : [ 
+	    {
+            "type" : "Poverty Eradication"
+        },
+        {
+            "type" : "Rural Development"
+        }
+    ],
+    "awards" : [],
+    "contacts" : {
+        "telNo" : "(855-23) 216917",
+        "website" : "http://www.add.org.uk/countries/cambodia",
+        "email" : "sopheap.kong@add.org.kh"
+    },
+    "address" : "#133, Street 95, Sangkat Boeung Trabek, Chamcar Morn, Phnom Penh",
+    "picture" : "",
+    "__v" : 59
+}

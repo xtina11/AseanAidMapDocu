@@ -1,0 +1,43 @@
+{
+    "_id" : ObjectId("585a1dcb4afa7a2a0caa847e"),
+    "description" : "NWTF takes a holistic approach to poverty alleviation, coupling access to finance with significant and instrumental development services for our clients These services include business & livelihood workshops, training courses, medical & dental missions, and more. NWTF welcomes any organization, enterprise or individual inclined to share their knowledge & expertise with our clients.",
+    "country" : "Philippines",
+    "orgname" : "Negros Women For Tomorrow Foundation, Inc. (NWTF)",
+    "password" : "$2a$10$P2gUBMJke5ZyxVzhLPZxEeZZyCmecPuD.Y3rvO30iziYS.kqhQiR.",
+    "username" : "org31,
+    "connections" : [ 
+        "584a865b0967ce1adc4588b9"
+    ],
+    "resources" : [
+        {
+            "quantity" : 200,
+            "description" : "First Aid Items",
+            "type" : "Clothes and Personal Necessities"
+        }, 
+        {
+            "quantity" : 100,
+            "description" : "Horticultural (spade, shovel, fork, shear, hand trowel, hoe)",
+            "type" : "Tools and Equipments"
+        }
+    ],
+    "sectors" : [ 
+	    {
+            "type" : "Rural Development"
+        },
+        {
+            "type" : "Poverty Eradication"
+        },
+        {
+            "type" : "Health and Nutrition"
+        }
+    ],
+    "awards" : [],
+    "contacts" : {
+        "telNo" : "+63 34 432 3720",
+        "website" : "https://nwtf.org.ph/",
+        "email" : "getinvolved@nwtf.org.ph" 
+    },
+    "address" : "102, San Sabastian Corner Verbena Street, Barangay 30",
+    "picture" : "",
+    "__v" : 59
+}

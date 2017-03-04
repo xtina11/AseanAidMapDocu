@@ -1,0 +1,41 @@
+{
+    "_id" : ObjectId("585a1dcb4afa7a2a0caa847e"),
+    "description" : "NFEFI and teams of volunteers have worked tirelessly to reforest hundreds of hectares, and have established a breeding program of endangered species plus numerous biodiversity conservation, education and research projects.",
+    "country" : "Philippines",
+    "orgname" : "Negros Forests and Ecological Foundation Inc.",
+    "password" : "$2a$10$P2gUBMJke5ZyxVzhLPZxEeZZyCmecPuD.Y3rvO30iziYS.kqhQiR.",
+    "username" : "isaiah",
+    "connections" : [ 
+        "584a865b0967ce1adc4588b9"
+    ],
+    "resources" : [ 
+        {
+            "quantity" : 10,
+            "description" : "Any Carpentry tools",
+            "type" : "Tools and Equipment"
+        }, 
+	{
+            "quantity" : 40,
+            "description" : "Any Masonry tools",
+            "type" : "Tools and Equipment"
+        },
+        {
+            "quantity" : 5,
+            "type" : "Human Resource"
+        }
+    ],
+    "sectors" : [ 
+        {
+	    "type" : "Rural Development"
+	}
+    ],
+    "awards" : [],
+    "contacts" : {
+        "telNo" : "(034) 433 9234",
+        "website" : "http://www.bacolodjs.com",
+        "email" : "isaiahtaguibao@yahoo.com"
+    },
+    "address" : "South Capitol Road",
+    "picture" : "",
+    "__v" : 59
+}

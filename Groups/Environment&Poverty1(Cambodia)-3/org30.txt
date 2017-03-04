@@ -1,0 +1,35 @@
+{
+    "_id" : ObjectId("585a1dcb4afa7a2a0caa847e"),
+    "description" : "We are founders of Farmer’s Life Improvement and Future Light Youth Organization (FLIFLY). And think that security and development in Cambodia have improved constantly because government, civil societies and local and international non-government organizations have been working actively to develop Khmer society. Nowadays Cambodia has its own government to restructure the country. However, poverty, unemployment, obstacles and problems in Cambodia still exist in large amount.",
+    "country" : "Cambodia",
+    "orgname" : "Farmer's Life Improvement and Future Light Youth Organization",
+    "password" : "$2a$10$P2gUBMJke5ZyxVzhLPZxEeZZyCmecPuD.Y3rvO30iziYS.kqhQiR.",
+    "username" : "org30,
+    "connections" : [ 
+        "584a865b0967ce1adc4588b9"
+    ],
+    "resources" : [ 
+        {
+            "quantity" : 200,
+            "description" : "Horticultural (spade, shovel, fork, shear, hand trowel, hoe)",
+            "type" : "Tools and Equipments"
+        }
+    ],
+    "sectors" : [ 
+	    {
+            "type" : "Environment"
+        },
+        {
+            "type" : "Poverty Eradication"
+        }
+    ],
+    "awards" : [],
+    "contacts" : {
+        "telNo" : "+85523 357 351",
+        "website" : "http://www.flifly.org.kh/",
+        "email" : "flifly@flifly.org.kh" 
+    },
+    "address" : "National road 1, Kandal Krom Village, Banteay Daek Commune, Keansvay District, Phnom Penh Kandal Province",
+    "picture" : "",
+    "__v" : 59
+}

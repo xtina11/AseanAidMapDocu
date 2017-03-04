@@ -1,0 +1,43 @@
+{
+    "_id" : ObjectId("5851c3da7eca1421dcf92c9a"),
+    "description" : "Characterirization of Areas as to the Type & Soil Fertility",
+    "endDate" : ISODate("2017-02-05T16:00:00.000Z"),
+    "startDate" : ISODate("2017-01-12T16:00:00.000Z"),
+    "creator" : "584a865b0967ce1adc4588b9",
+    "title" : "Land Resources Evaluation",
+    "collaboration" : [ 
+        "585a1dcb4afa7a2a0caa847e"
+    ],
+    "status" : "Ongoing",
+    "resources" : [ 
+        {
+            "qty" : 40,
+            "description" : "Rake",
+            "type" : "Tools and Equipments",
+            "inhand" : 28
+        }
+    ],
+    "budget" : {
+        "amount" : "992500",
+        "shown" : true
+    },
+    "address" : {
+        "country" : "Brunei",
+        "street" : "Edc Street",
+        "city" : "Tutong"
+    },
+    "__v" : 7,
+    "contacts" : {
+        "telNo" : "478-9100",
+        "website" : "http://www.lre.com",
+        "email" : "lre@yahoo.com"
+    },
+    "media" : [],
+    "sector" : [ 
+        {
+            "type" : "Rural Development",
+            "subsector" : "Land management"
+        }
+    ],
+    "picture" : ""
+}

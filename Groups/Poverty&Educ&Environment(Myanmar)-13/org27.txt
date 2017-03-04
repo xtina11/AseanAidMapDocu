@@ -1,0 +1,48 @@
+{
+    "_id" : ObjectId("585a1dcb4afa7a2a0caa847e"),
+    "description" : "Agency for Basic Community Development (ABC) is a Catholic humanitarian organization. Its foundation dates back to Cyclone Nargis disaster of Myanmar (a.k.a. Burma) in May, 2008. The Cyclone Nargis killed about 140,000 and affected another 2.4 million people particularly in lowland delta area. This disaster invited international civil society organizations. At the same time it helped the local civil society groups to organize themselves for cause. ",
+    "country" : "Myanmar",
+    "orgname" : "Agency for Basic Community Development",
+    "password" : "$2a$10$P2gUBMJke5ZyxVzhLPZxEeZZyCmecPuD.Y3rvO30iziYS.kqhQiR.",
+    "username" : "org27,
+    "connections" : [ 
+        "584a865b0967ce1adc4588b9"
+    ],
+    "resources" : [ 
+        {
+            "quantity" : 200,
+            "description" : "Horticultural (spade, shovel, fork, shear, hand trowel, hoe)",
+            "type" : "Tools and Equipments"
+        },
+        {
+            "quantity" : 350,
+            "description" : "Clothes",
+            "type" : "Clothes and Personal Necessities"
+        },
+        {
+            "quantity" : 350,
+            "description" : "First Aid Items",
+            "type" : "Clothes and Personal Necessities"
+        }
+    ],
+    "sectors" : [ 
+	    {
+            "type" : "Poverty Eradication"
+        },
+        {
+            "type" : "Environment"
+        },
+        {
+            "type" : "Education"
+        }
+    ],
+    "awards" : [],
+    "contacts" : {
+        "telNo" : "(+95-1) 636-081; 094-932-300; 097-300-7018",
+        "website" : "http://www.abcmm.org/contact.html",
+        "email" : "abcmm.org@gmail.com,  mail@abcmm.org" 
+    },
+    "address" : "28 B, Pa La Ya 50 Household, Wireless Qrt, Mingalardon Township, 11021 Yangon",
+    "picture" : "",
+    "__v" : 59
+}

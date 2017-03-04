@@ -1,0 +1,52 @@
+{
+    "_id" : ObjectId("5851c3da7eca1421dcf92c9a"),
+    "description" : "A project for the purpose of donating blood to those that are in need.",
+    "endDate" : ISODate("2017-01-19T16:00:00.000Z"),
+    "startDate" : ISODate("2016-12-14T16:00:00.000Z"),
+    "creator" : "584a865b0967ce1adc4588b9",
+    "title" : "Bloodletting Project",
+    "collaboration" : [ 
+        "585a1dcb4afa7a2a0caa847e"
+    ],
+    "status" : "Ongoing",
+    "resources" : [ 
+        {
+            "qty" : 15,
+            "type" : "Human Resource",
+            "inhand" : 10
+        }, 
+        {
+            "qty" : 100,
+            "description" : "Bandages",
+            "type" : "Medical Supplies",
+            "inhand" : 20
+        }
+    ],
+    "budget" : {
+        "amount" : "100000",
+        "shown" : true
+    },
+    "address" : {
+        "country" : "Philippines",
+        "street" : "Lacson Street",
+        "city" : "Quezon"
+    },
+    "__v" : 7,
+    "contacts" : {
+        "telNo" : "123123123",
+        "website" : "http://www.bacolodjs.com",
+        "email" : "hq@yahoo.com"
+    },
+    "media" : [],
+    "sector" : [ 
+        {
+            "type" : "Health and Nutrition",
+            "subsector" : "Bloodletting"
+        },
+	{
+            "type" : "Health and Nutrition",
+            "subsector" : "Bloodletting"
+        }
+    ],
+    "picture" : ""
+}

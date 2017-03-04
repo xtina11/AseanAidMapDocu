@@ -1,0 +1,35 @@
+{
+    "_id" : ObjectId("585a1dcb4afa7a2a0caa847e"),
+    "description" : "Passion for Sound Mind (PSM) is a health based non-governmental organization which focuses on the primary prevention of drug abuse and alcoholism and also helping victims to attain sobriety.",
+    "country" : "Vietnam",
+    "orgname" : "Passion for Sound Mind (PSM)",
+    "password" : "$2a$10$P2gUBMJke5ZyxVzhLPZxEeZZyCmecPuD.Y3rvO30iziYS.kqhQiR.",
+    "username" : "org16",
+    "connections" : [ 
+        "584a865b0967ce1adc4588b9"
+    ],
+    "resources" : [ 
+        {
+            "quantity" : 100,
+            "description" : "First Aid Items",
+            "type" : "Clothes and Personal Necessities"
+        }
+    ],
+    "sectors" : [ 
+	   {
+            "type" : "Health and Nutrition"
+        },
+        {
+            "type" : "Education"
+        }
+    ],
+    "awards" : [],
+    "contacts" : {
+        "telNo" : "09463593953",
+        "website" : "http://www.bacolodjs.com",
+        "email" : "isaiahtaguibao@yahoo.com"
+    },
+    "address" : "",
+    "picture" : "",
+    "__v" : 59
+}

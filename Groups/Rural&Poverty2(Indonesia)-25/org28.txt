@@ -1,0 +1,45 @@
+{
+    "_id" : ObjectId("585a1dcb4afa7a2a0caa847e"),
+    "description" : "IDRAP (Institution for Development of Rural and Indigenous People) is an non-profit and non-governmental organization working for materialization of rights to development of rural and indigenous people in South East Sulawesi Province of East Indonesia. This is important to maintain people living in a harmony and peaceful world as well as to keep them out of social conflict. It remains a fact that rural and indigenous people are in abundance of natural resources but living below poverty line. IDRAP was initially founded as an informal caucus in 1999 by a group of people from North Kulisusu. The idea of its establishment was inspired by their collective worries and concerns on the poverty situation of indigenous communities in North Buton Island though they are in abundance of natural resources. After having been active as a voluntary caucus for five years, a substantial change was made on October 24, 2003, when IDRAP was formally declared and legally registered as a not-for-profit organization and non-governmental organization.",
+    "country" : "Indonesia",
+    "orgname" : "Institution for Development of Rural and Indigenous People (IDRAP)",
+    "password" : "$2a$10$P2gUBMJke5ZyxVzhLPZxEeZZyCmecPuD.Y3rvO30iziYS.kqhQiR.",
+    "username" : "org28,
+    "connections" : [ 
+        "584a865b0967ce1adc4588b9"
+    ],
+    "resources" : [ 
+        {
+            "quantity" : 200,
+            "description" : "Horticultural (spade, shovel, fork, shear, hand trowel, hoe)",
+            "type" : "Tools and Equipments"
+        },
+        {
+            "quantity" : 350,
+            "description" : "Clothes",
+            "type" : "Clothes and Personal Necessities"
+        },
+        {
+            "quantity" : 230,
+            "description" : "First Aid Items",
+            "type" : "Clothes and Personal Necessities"
+        }
+    ],
+    "sectors" : [ 
+	    {
+            "type" : "Rural Development"
+        },
+        {
+            "type" : "Poverty Eradication"
+        }
+    ],
+    "awards" : [],
+    "contacts" : {
+        "telNo" : "+62-401-3032600 ",
+        "website" : "www.idrap.or.id ",
+        "email" : "abcmm.org@gmail.com,  mail@abcmm.org" 
+    },
+    "address" : "Graha Carita Lt. 3 No. 2-3 Jl. Martandu - Poros Ktr. Gubernur Kendari 93231, Southeast Sulawesi",
+    "picture" : "",
+    "__v" : 59
+}
